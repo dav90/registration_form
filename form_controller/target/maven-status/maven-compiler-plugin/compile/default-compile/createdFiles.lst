@@ -1,0 +1,8 @@
+com\springapp\mvc\controller\AddAddress.class
+com\springapp\mvc\controller\Login.class
+com\springapp\mvc\controller\Users.class
+com\springapp\mvc\controller\validator\LoginValidator.class
+com\springapp\mvc\controller\Registration.class
+com\springapp\mvc\controller\validator\RegistrationValidator.class
+com\springapp\mvc\controller\AddContact.class
+com\springapp\mvc\controller\Logout.class
